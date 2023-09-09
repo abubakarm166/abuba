@@ -6,7 +6,7 @@
 body,html{
 	margin: 0px;
 	padding: 0px;
-	/*overflow-x:hidden ;*/
+	overflow-x:hidden;
 	
 }
 /*.oon{
@@ -1075,7 +1075,7 @@ section.ac2 {
 		padding: 0;
 	}
 	body{
-		/*overflow-x:hidden ;*/
+		overflow-x:hidden ;
 	}
 	.innn{
 		display:none;
